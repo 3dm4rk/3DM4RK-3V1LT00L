@@ -69,10 +69,10 @@ bash
 pip install -r requirements.txt
 Run the Application
 
-bash
+### bash
 python 3dm4rk.py
 
-###
+
 🔐 Access Credentials
 Default PIN: 666666
 
